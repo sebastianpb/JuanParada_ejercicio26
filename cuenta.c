@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 	int arrlen=sizeof(arr)/sizeof(int);
     
 
-
+    /*
     parr=arr;
 	for(i=0;i<arrlen;i++){
 
@@ -40,7 +40,7 @@ int main(int argc, char *argv[])
 	}
 
 	printf("tamaño del arreglo de salida es %d\n",arrlen);
-	
+	*/
 
     clock_t start, end;
     double cpu_time_used;
