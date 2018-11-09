@@ -1,3 +1,4 @@
+#!/bin/bash
 #PBS -l nodes=1:ppn=2,mem=1gb,walltime=00:10:00
 #PBS -M je.forero@uniandes.edu.co
 #PBS -m abe
